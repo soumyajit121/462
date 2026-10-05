@@ -1,0 +1,64 @@
+OrderID,OrderDate,CustomerName,Region,Category,Product,Quantity,UnitPrice,Discount,Sales,SatisfactionRating
+ORD1007,2025-01-12,Rohan Das,East,Groceries,Cooking Oil,11.0,1178.1,0.0,12959.1,1.0
+ORD1055,2025-06-20,Meera Bose,North,Stationery,Marker,7.0,1664.61,0.15,9904.43,3.0
+ORD1050,2025-03-26,Kunal Verma,South,Electronics,Mouse,5.0,4328.55,0.2,17314.2,3.0
+ORD1060,2025-02-07,Vivaan Chatterjee,South,Stationery,Pen Set,1.0,278.76,0.05,264.82,5.0
+ORD1048,2025-02-10,Aditya Sen,East,Clothing,Jacket,,585.07,0.2,5616.67,1.0
+ORD1024,2025-01-19,Aarav Sharma,South,Groceries,Cooking Oil,12.0,3173.96,0.0,38087.52,1.0
+ORD1032,2025-06-19,Pooja Agarwal,West,Stationery,File Folder,12.0,2459.02,0.0,29508.24,3.0
+ORD1035,2025-05-26,Sneha Roy,North,Furniture,Sofa,4.0,2915.65,0.0,11662.6,5.0
+ORD1026,2025-03-04,Tanvi Joshi,South,Groceries,Sugar 1kg,8.0,4047.11,0.0,32376.88,1.0
+ORD1014,2025-02-09,Sneha Roy,,Electronics,Headphones,11.0,841.91,0.15,7871.86,4.0
+ORD1029,2025-03-13,Ananya Ghosh,West,Furniture,Sofa,8.0,1286.54,0.0,10292.32,4.0
+ORD1013,2025-04-13,Karan Bhatt,East,Groceries,Tea Pack,6.0,1135.64,0.0,6813.84,5.0
+ORD1032,2025-06-19,Pooja Agarwal,West,Stationery,File Folder,12.0,2459.02,0.0,29508.24,3.0
+ORD1049,2025-03-31,Siddharth Iyer,West,Furniture,Study Table,,4111.66,0.2,16446.64,2.0
+ORD1005,2025-04-02,Sneha Roy,North,Electronics,Monitor,6.0,3038.44,0.2,14584.51,1.0
+ORD1037,2025-02-03,Kunal Verma,,Furniture,Bookshelf,11.0,3245.23,0.05,33912.65,3.0
+ORD1010,2025-06-13,Aditya Sen,South,Clothing,Cap,12.0,2806.9,0.15,28630.38,3.0
+ORD1019,2025-01-05,Tanvi Joshi,North,Groceries,Wheat Flour,,4649.04,0.2,7438.46,
+ORD1059,2025-06-19,Yash Reddy,South,Electronics,Keyboard,11.0,3115.34,0.0,34268.74,
+ORD1060,2025-02-07,Vivaan Chatterjee,South,Stationery,Pen Set,1.0,278.76,0.05,264.82,5.0
+ORD1041,2025-07-10,Sneha Roy,South,Stationery,Notebook,9.0,819.47,0.0,7375.23,5.0
+ORD1047,2025-02-11,Ishita Banerjee,West,Groceries,Cooking Oil,3.0,4413.01,0.0,13239.03,2.0
+ORD1034,2025-01-15,Ananya Ghosh,West,Groceries,Sugar 1kg,9.0,446.55,0.0,4018.95,1.0
+ORD1017,2025-05-09,Aditya Sen,South,Clothing,T-Shirt,3.0,2563.02,0.0,7689.06,
+ORD1016,2025-07-16,Aditya Sen,North,Electronics,Webcam,11.0,1733.87,0.0,19072.57,4.0
+ORD1036,2025-05-14,Karan Bhatt,North,Clothing,Socks,6.0,4676.8,0.0,28060.8,
+ORD1012,2025-06-14,Kunal Verma,East,Furniture,Sofa,8.0,757.21,0.0,6057.68,2.0
+ORD1031,2025-04-08,Ananya Ghosh,South,Clothing,T-Shirt,1.0,4927.28,0.0,4927.28,
+ORD1008,2025-04-27,Aditya Sen,South,Electronics,Monitor,11.0,4178.85,0.0,45967.35,3.0
+ORD1028,2025-07-24,Arjun Nair,North,Electronics,Monitor,2.0,1280.85,0.0,2561.7,5.0
+ORD1021,2025-06-18,Kabir Mehta,North,Groceries,Cooking Oil,8.0,4736.9,0.0,37895.2,3.0
+ORD1051,2025-03-26,Pooja Agarwal,East,Groceries,Tea Pack,1.0,620.94,0.0,620.94,2.0
+ORD1046,2025-06-20,Ishita Banerjee,,Stationery,Pen Set,,1800.71,0.1,3241.28,
+ORD1006,2025-01-21,Kunal Verma,,Groceries,Rice 5kg,9.0,1501.23,0.15,11484.41,5.0
+ORD1053,2025-03-07,Vivaan Chatterjee,North,Clothing,Socks,1.0,3558.49,0.0,3558.49,5.0
+ORD1002,2025-01-08,Priya Singh,North,Groceries,Tea Pack,2.0,1132.26,0.1,2038.07,5.0
+ORD1038,2025-05-25,Neha Kulkarni,North,Electronics,Monitor,2.0,412.64,0.0,825.28,5.0
+ORD1003,2025-04-18,Pooja Agarwal,North,Groceries,Cooking Oil,4.0,2273.58,0.0,9094.32,
+ORD1023,2025-01-31,Siddharth Iyer,East,Clothing,Socks,4.0,1162.25,0.0,4649.0,1.0
+ORD1052,2025-04-22,Neha Kulkarni,East,Electronics,Headphones,6.0,3656.3,0.0,21937.8,4.0
+ORD1018,2025-02-09,Vivaan Chatterjee,East,Groceries,Sugar 1kg,6.0,3824.43,0.1,20651.92,
+ORD1027,2025-04-16,Riya Malhotra,North,Clothing,Jeans,8.0,4325.99,0.0,34607.92,
+ORD1015,2025-04-30,Neha Kulkarni,North,Clothing,Cap,9.0,1294.5,0.1,10485.45,
+ORD1040,2025-06-20,Aarav Sharma,East,Groceries,Sugar 1kg,9.0,1531.92,0.15,11719.19,1.0
+ORD1030,2025-01-24,Aarav Sharma,North,Electronics,Webcam,4.0,873.24,0.05,3318.31,4.0
+ORD1045,2025-02-07,Pooja Agarwal,North,Stationery,Marker,7.0,680.86,0.0,4766.02,3.0
+ORD1021,2025-06-18,Kabir Mehta,North,Groceries,Cooking Oil,8.0,4736.9,0.0,37895.2,3.0
+ORD1033,2025-01-16,Pooja Agarwal,South,Electronics,Webcam,12.0,1602.34,0.0,19228.08,5.0
+ORD1039,2025-03-04,Rohan Das,East,Furniture,Bookshelf,6.0,1460.69,0.05,8325.93,
+ORD1056,2025-06-23,Kunal Verma,South,Furniture,Sofa,12.0,4518.89,0.1,48804.01,5.0
+ORD1054,2025-06-20,Rohan Das,South,Stationery,File Folder,6.0,3134.62,0.15,15986.56,
+ORD1042,2025-05-10,Aditya Sen,South,Stationery,Pen Set,8.0,1293.05,0.2,8275.52,1.0
+ORD1044,2025-05-24,Riya Malhotra,South,Clothing,Socks,1.0,603.78,0.15,513.21,2.0
+ORD1011,2025-04-13,Arjun Nair,North,Furniture,Office Chair,5.0,377.63,0.1,1699.34,
+ORD1020,2025-05-26,Ishita Banerjee,East,Furniture,Office Chair,2.0,473.98,0.05,900.56,
+ORD1022,2025-07-02,Vivaan Chatterjee,West,Furniture,Cabinet,5.0,2025.01,0.15,8606.29,
+ORD1001,2025-02-27,Ishita Banerjee,,Electronics,Keyboard,3.0,3695.53,0.15,9423.6,
+ORD1009,2025-06-05,Rohan Das,East,Furniture,Bookshelf,11.0,897.14,0.15,8388.26,2.0
+ORD1057,2025-03-19,Aarav Sharma,East,Clothing,Socks,5.0,1090.4,0.2,4361.6,5.0
+ORD1004,2025-03-13,Arjun Nair,North,Furniture,Sofa,3.0,1115.8,0.2,2677.92,3.0
+ORD1058,2025-06-22,Siddharth Iyer,East,Clothing,Cap,4.0,2580.31,0.2,8256.99,
+ORD1025,2025-03-02,Yash Reddy,North,Stationery,Notebook,5.0,3361.44,0.0,16807.2,5.0
+ORD1043,2025-01-01,Priya Singh,North,Clothing,Jeans,6.0,3867.04,0.15,19721.9,3.0
